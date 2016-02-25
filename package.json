@@ -1,7 +1,7 @@
 {
   "name": "aws-apply-patch-operations",
   "description": "applys patchOperations to the object",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "tape test/*.js",
