@@ -49,3 +49,5 @@ var applyPatchOperations = require('apply-patch-operations');
     - value - `String`
   - opts - `map`
     - mutable - defaults to `false` - `Boolean`
+- Return value
+  - patchedObject - `Object`
